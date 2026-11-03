@@ -1,3 +1,4 @@
 SUB 
 MUL 
 MOD
+DIV
